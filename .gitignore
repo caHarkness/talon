@@ -1,0 +1,15 @@
+/workspace/
+/data/
+/root/
+/root
+/venv/
+__pycache__/
+
+# Don't track these tools:
+/tools_extra/
+
+*.log
+/settings.sh
+
+/voice/vosk_model/
+/skills/
